@@ -30,6 +30,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "14 - 2 - 2024",
         "time_of_commit": "17:45:06"
+      },
+      {
+        "msg": "n1 added",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "14 - 2 - 2024",
+        "time_of_commit": "19:02:40"
       }
     ],
     "n3.txt": [
