@@ -35,6 +35,15 @@
         "date_of_commit": "14 - 2 - 2024",
         "time_of_commit": "13:14:30"
       }
+    ],
+    "n2.txt": [
+      {
+        "msg": "name added",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "14 - 2 - 2024",
+        "time_of_commit": "15:09:42"
+      }
     ]
   }
 }
