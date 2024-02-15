@@ -64,6 +64,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "14 - 2 - 2024",
         "time_of_commit": "15:09:42"
+      },
+      {
+        "msg": "hi",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "11:04:53"
       }
     ]
   }
