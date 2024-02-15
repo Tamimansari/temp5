@@ -37,6 +37,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "14 - 2 - 2024",
         "time_of_commit": "19:02:40"
+      },
+      {
+        "msg": "n1 added a new commit _2",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "18:21:13"
       }
     ],
     "n3.txt": [
@@ -92,6 +99,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "15 - 2 - 2024",
         "time_of_commit": "15:37:56"
+      },
+      {
+        "msg": "thamim name added",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "18:21:22"
       }
     ],
     "n5.txt": [
