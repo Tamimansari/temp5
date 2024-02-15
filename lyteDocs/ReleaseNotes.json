@@ -131,5 +131,16 @@
         "time_of_commit": "18:19:03"
       }
     ]
+  },
+  "1.0.1": {
+    "package.json": [
+      {
+        "msg": "vchanged",
+        "type_of_commit": "[Bug_Fix] (1223)",
+        "fileName": "package.json",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "18:22:57"
+      }
+    ]
   }
 }
