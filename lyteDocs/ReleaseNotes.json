@@ -53,6 +53,13 @@
         "fileName": "n3.txt",
         "date_of_commit": "15 - 2 - 2024",
         "time_of_commit": "15:31:48"
+      },
+      {
+        "msg": "checking purpose",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n3.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "18:18:21"
       }
     ],
     "n4.txt": [
