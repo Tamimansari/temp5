@@ -152,6 +152,24 @@
         "date_of_commit": "15 - 2 - 2024",
         "time_of_commit": "19:05:19"
       }
+    ],
+    "n2.txt": [
+      {
+        "msg": "thamim added fir test",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "19:05:58"
+      }
+    ],
+    "n3.txt": [
+      {
+        "msg": "thamimadded for 2 test",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n3.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "19:06:07"
+      }
     ]
   }
 }
