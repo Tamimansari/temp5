@@ -142,5 +142,16 @@
         "time_of_commit": "18:22:57"
       }
     ]
+  },
+  "1.0.2": {
+    "n1.txt": [
+      {
+        "msg": "naveen added for test",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "19:05:19"
+      }
+    ]
   }
 }
