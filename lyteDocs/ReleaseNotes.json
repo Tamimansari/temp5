@@ -37,6 +37,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "14 - 2 - 2024",
         "time_of_commit": "19:02:40"
+      },
+      {
+        "msg": "thamim pushed",
+        "type_of_commit": "[Bug_Fix] (99)",
+        "fileName": "n1.txt",
+        "date_of_commit": "15 - 2 - 2024",
+        "time_of_commit": "11:03:08"
       }
     ],
     "n3.txt": [
