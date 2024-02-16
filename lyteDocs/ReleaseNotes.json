@@ -214,6 +214,13 @@
         "fileName": "n4.txt",
         "date_of_commit": "16 - 2 - 2024",
         "time_of_commit": "15:08:18"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n4.txt",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "17:42:59"
       }
     ],
     "package.json": [
@@ -232,6 +239,24 @@
         "fileName": "n2.txt",
         "date_of_commit": "16 - 2 - 2024",
         "time_of_commit": "15:31:42"
+      }
+    ],
+    "n5.txt": [
+      {
+        "msg": "chec _ 1",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n5.txt",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "17:43:08"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "test_!",
+        "type_of_commit": "[Feature] ",
+        "fileName": "n6.txt",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "17:43:17"
       }
     ]
   }
