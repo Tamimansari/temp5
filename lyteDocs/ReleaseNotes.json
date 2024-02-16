@@ -151,6 +151,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "15 - 2 - 2024",
         "time_of_commit": "19:05:19"
+      },
+      {
+        "msg": "added 1",
+        "type_of_commit": "[Bug_Fix] (345)",
+        "fileName": "n1.txt",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "15:06:24"
       }
     ],
     "n2.txt": [
