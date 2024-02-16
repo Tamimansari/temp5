@@ -196,5 +196,16 @@
         "time_of_commit": "11:29:05"
       }
     ]
+  },
+  "1.0.3": {
+    "n1.txt": [
+      {
+        "msg": "new feature added",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "15:07:41"
+      }
+    ]
   }
 }
