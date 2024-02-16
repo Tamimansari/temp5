@@ -215,6 +215,15 @@
         "date_of_commit": "16 - 2 - 2024",
         "time_of_commit": "15:08:18"
       }
+    ],
+    "package.json": [
+      {
+        "msg": "version changed",
+        "type_of_commit": "[Bug_Fix] (456)",
+        "fileName": "package.json",
+        "date_of_commit": "16 - 2 - 2024",
+        "time_of_commit": "15:10:54"
+      }
     ]
   }
 }
