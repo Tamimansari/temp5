@@ -317,5 +317,16 @@
         "time_of_commit": "15:31:29"
       }
     ]
+  },
+  "1.0.6": {
+    "n1.txt": [
+      {
+        "msg": "name addd",
+        "type_of_commit": "[Bug_Fix] (e4r26t)",
+        "fileName": "n1.txt",
+        "date_of_commit": "20 - 2 - 2024",
+        "time_of_commit": "15:33:55"
+      }
+    ]
   }
 }
