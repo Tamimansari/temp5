@@ -326,6 +326,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "20 - 2 - 2024",
         "time_of_commit": "15:33:55"
+      },
+      {
+        "msg": "name thamim added",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "20 - 2 - 2024",
+        "time_of_commit": "18:44:49"
       }
     ],
     "n5.txt": [
