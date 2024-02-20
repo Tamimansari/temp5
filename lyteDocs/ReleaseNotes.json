@@ -288,5 +288,16 @@
         "time_of_commit": "15:28:09"
       }
     ]
+  },
+  "1.0.5": {
+    "n10.txt": [
+      {
+        "msg": "updated",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n10.txt",
+        "date_of_commit": "20 - 2 - 2024",
+        "time_of_commit": "15:30:18"
+      }
+    ]
   }
 }
