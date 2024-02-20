@@ -336,6 +336,15 @@
         "date_of_commit": "20 - 2 - 2024",
         "time_of_commit": "15:34:31"
       }
+    ],
+    "package.json": [
+      {
+        "msg": "vchnaged to 1.0.6",
+        "type_of_commit": "[Bug_Fix] (34567)",
+        "fileName": "package.json",
+        "date_of_commit": "20 - 2 - 2024",
+        "time_of_commit": "15:46:24"
+      }
     ]
   }
 }
