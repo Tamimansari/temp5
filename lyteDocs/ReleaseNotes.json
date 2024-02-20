@@ -278,6 +278,15 @@
         "date_of_commit": "19 - 2 - 2024",
         "time_of_commit": "11:11:59"
       }
+    ],
+    "package.json": [
+      {
+        "msg": "check for version",
+        "type_of_commit": "[Bug_Fix] (1234)",
+        "fileName": "package.json",
+        "date_of_commit": "20 - 2 - 2024",
+        "time_of_commit": "15:28:09"
+      }
     ]
   }
 }
