@@ -388,6 +388,13 @@
         "fileName": "n10.txt",
         "date_of_commit": "21 - 2 - 2024",
         "time_of_commit": "14:59:02"
+      },
+      {
+        "msg": "git added msg",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n10.txt",
+        "date_of_commit": "21 - 2 - 2024",
+        "time_of_commit": "15:22:42"
       }
     ]
   }
