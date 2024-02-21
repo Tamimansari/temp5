@@ -26,6 +26,15 @@
         "date_of_commit": "21 - 2 - 2024",
         "time_of_commit": "18:29:11"
       }
+    ],
+    "n6.txt": [
+      {
+        "msg": "fhfbgdgh",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n6.txt",
+        "date_of_commit": "21 - 2 - 2024",
+        "time_of_commit": "18:32:07"
+      }
     ]
   }
 }
