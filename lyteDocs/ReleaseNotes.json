@@ -58,6 +58,15 @@
         "date_of_commit": "22 - 2 - 2024",
         "time_of_commit": "19:01:38"
       }
+    ],
+    "n6.txt": [
+      {
+        "msg": "checking for commit msg",
+        "type_of_commit": "[Style_Changes]",
+        "fileName": "n6.txt",
+        "date_of_commit": "22 - 2 - 2024",
+        "time_of_commit": "19:04:14"
+      }
     ]
   },
   "1.0.7": {
