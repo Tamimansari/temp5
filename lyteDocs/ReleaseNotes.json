@@ -16,6 +16,13 @@
         "fileName": "n1.txt",
         "date_of_commit": "21 - 2 - 2024",
         "time_of_commit": "18:27:06"
+      },
+      {
+        "msg": "checking after reset",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n1.txt",
+        "date_of_commit": "22 - 2 - 2024",
+        "time_of_commit": "11:22:13"
       }
     ],
     "n10.txt": [
