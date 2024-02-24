@@ -1,0 +1,17 @@
+{
+  "unpublishedVersion": {
+    "multiplefiles": [
+      {
+        "msg": "all files were commited",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": [
+          "n1.txt",
+          "n3.txt",
+          "n5/new.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "11:00:24"
+      }
+    ]
+  }
+}
