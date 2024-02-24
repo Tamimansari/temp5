@@ -57,6 +57,15 @@
         ],
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "12:17:15"
+      },
+      {
+        "msg": "check for only one file",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "12:21:07"
       }
     ]
   }
