@@ -47,6 +47,17 @@
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "11:09:43"
       }
+    ],
+    "n6.txt": [
+      {
+        "msg": "checking for seperate files",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "12:17:15"
+      }
     ]
   }
 }
