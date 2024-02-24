@@ -73,6 +73,13 @@
         "fileName": "n6.txt",
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "12:28:39"
+      },
+      {
+        "msg": "checking for another",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": "n6.txt",
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "12:31:18"
       }
     ]
   }
