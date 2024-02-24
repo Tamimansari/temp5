@@ -11,6 +11,16 @@
         ],
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "11:00:24"
+      },
+      {
+        "msg": "check as commit all the files",
+        "type_of_commit": "[REFACTOR]",
+        "fileName": [
+          "n6.txt",
+          "n9.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "11:02:09"
       }
     ],
     "n10.txt": [
