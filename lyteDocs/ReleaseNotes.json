@@ -8,6 +8,20 @@
         "date_of_commit": "23 - 2 - 2024",
         "time_of_commit": "12:19:52"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "complete change_305678",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": [
+          "n2.txt",
+          "n3.txt",
+          "n4.txt",
+          "n5/new.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "10:57:12"
+      }
     ]
   }
 }
