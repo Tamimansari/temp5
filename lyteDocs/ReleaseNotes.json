@@ -12,6 +12,15 @@
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "11:00:24"
       }
+    ],
+    "n10.txt": [
+      {
+        "msg": "oneplus",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": "n10.txt",
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "11:01:17"
+      }
     ]
   }
 }
