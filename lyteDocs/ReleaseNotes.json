@@ -21,6 +21,15 @@
         ],
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "11:02:09"
+      },
+      {
+        "msg": "only one file",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": [
+          "n10.txt"
+        ],
+        "date_of_commit": "24 - 2 - 2024",
+        "time_of_commit": "11:10:10"
       }
     ],
     "n10.txt": [
