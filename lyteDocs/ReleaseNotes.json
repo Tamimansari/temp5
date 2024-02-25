@@ -128,6 +128,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "10:42:55"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "n2.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "17:43:50"
       }
     ],
     "n99.txt": [
