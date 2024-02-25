@@ -53,6 +53,13 @@
         "fileName": "n10.txt",
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "10:17:43"
+      },
+      {
+        "msg": "oneplus",
+        "type_of_commit": "[STYLE_CHANGES]",
+        "fileName": "n10.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "10:27:44"
       }
     ],
     "n6.txt": [
