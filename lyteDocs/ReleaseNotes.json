@@ -188,6 +188,15 @@
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "18:13:56"
       }
+    ],
+    "n5/n10.txt": [
+      {
+        "msg": "commit funs",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "n5/n10.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "18:36:35"
+      }
     ]
   }
 }
