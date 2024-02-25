@@ -120,6 +120,15 @@
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "10:17:57"
       }
+    ],
+    "n2.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "n2.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "10:42:55"
+      }
     ]
   }
 }
