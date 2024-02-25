@@ -163,6 +163,15 @@
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "17:58:06"
       }
+    ],
+    "n5/new.txt": [
+      {
+        "msg": "t",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "new.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "18:00:26"
+      }
     ]
   }
 }
