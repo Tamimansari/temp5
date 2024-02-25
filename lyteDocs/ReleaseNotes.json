@@ -180,6 +180,13 @@
         "fileName": "n12.txt",
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "18:11:45"
+      },
+      {
+        "msg": "checking for next msg",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "n12.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "18:13:56"
       }
     ]
   }
