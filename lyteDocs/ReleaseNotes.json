@@ -138,6 +138,15 @@
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "10:57:07"
       }
+    ],
+    "n4.txt": [
+      {
+        "msg": "test",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": "n4.txt",
+        "date_of_commit": "25 - 2 - 2024",
+        "time_of_commit": "11:05:22"
+      }
     ]
   }
 }
