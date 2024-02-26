@@ -278,6 +278,13 @@
         "fileName": "n5/n100.txt",
         "date_of_commit": "26 - 2 - 2024",
         "time_of_commit": "12:52:09"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n5/n100.txt",
+        "date_of_commit": "26 - 2 - 2024",
+        "time_of_commit": "13:08:43"
       }
     ]
   }
