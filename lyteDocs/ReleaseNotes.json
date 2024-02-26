@@ -302,6 +302,13 @@
         "fileName": "n5/n100.txt",
         "date_of_commit": "26 - 2 - 2024",
         "time_of_commit": "13:10:54"
+      },
+      {
+        "msg": "removed",
+        "type_of_commit": "[REMOVED]",
+        "fileName": "n5/n100.txt",
+        "date_of_commit": "26 - 2 - 2024",
+        "time_of_commit": "13:11:11"
       }
     ]
   }
