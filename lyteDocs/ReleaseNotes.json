@@ -30,6 +30,16 @@
         ],
         "date_of_commit": "24 - 2 - 2024",
         "time_of_commit": "11:10:10"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUG_FIX]",
+        "fileName": [
+          "n14.txt",
+          "n5/n100.txt"
+        ],
+        "date_of_commit": "26 - 2 - 2024",
+        "time_of_commit": "12:21:15"
       }
     ],
     "n10.txt": [
