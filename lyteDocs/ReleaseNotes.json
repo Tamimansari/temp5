@@ -324,6 +324,15 @@
         "date_of_commit": "26 - 2 - 2024",
         "time_of_commit": "13:28:22"
       }
+    ],
+    "n5.txt": [
+      {
+        "msg": "merge check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n5.txt",
+        "date_of_commit": "27 - 2 - 2024",
+        "time_of_commit": "11:51:33"
+      }
     ]
   }
 }
