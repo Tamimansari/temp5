@@ -35,6 +35,15 @@
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "12:05:45"
       }
+    ],
+    "n55.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n55.txt",
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "12:22:03"
+      }
     ]
   }
 }
