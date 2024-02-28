@@ -8,6 +8,15 @@
         "date_of_commit": "27 - 2 - 2024",
         "time_of_commit": "12:33:45"
       }
+    ],
+    "new.txt": [
+      {
+        "msg": "check for user msg added",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "new.txt",
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "11:30:16"
+      }
     ]
   }
 }
