@@ -81,6 +81,16 @@
         ],
         "date_of_commit": "26 - 2 - 2024",
         "time_of_commit": "13:10:02"
+      },
+      {
+        "msg": "testing for creating a commit msg as object and object",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n10.txt",
+          "n999.txt"
+        ],
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "19:36:30"
       }
     ],
     "n10.txt": [
