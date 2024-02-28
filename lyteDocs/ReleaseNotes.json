@@ -224,6 +224,13 @@
         "fileName": "n4.txt",
         "date_of_commit": "25 - 2 - 2024",
         "time_of_commit": "11:05:22"
+      },
+      {
+        "msg": "checj",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n4.txt",
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "20:16:52"
       }
     ],
     "n5/n6.txt": [
