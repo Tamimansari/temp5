@@ -81,6 +81,17 @@
         ],
         "date_of_commit": "26 - 2 - 2024",
         "time_of_commit": "13:10:02"
+      },
+      {
+        "msg": "commiting all the files",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": [
+          "n4.txt",
+          "n5.txt",
+          "n99.txt"
+        ],
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "20:21:26"
       }
     ],
     "n10.txt": [
