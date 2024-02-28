@@ -17,6 +17,24 @@
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "11:30:16"
       }
+    ],
+    "new1.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "new1.txt",
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "12:05:40"
+      }
+    ],
+    "new2.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": "new2.txt",
+        "date_of_commit": "28 - 2 - 2024",
+        "time_of_commit": "12:05:45"
+      }
     ]
   }
 }
