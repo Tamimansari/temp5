@@ -162,6 +162,15 @@
         "fileName": "n6.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "18:38:07"
+      },
+      {
+        "msg": "dummy",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n555.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "18:42:08"
       }
     ],
     "temp": [
