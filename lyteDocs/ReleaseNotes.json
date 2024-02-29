@@ -226,6 +226,17 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:12:33"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "bfj",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "new.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:14:09"
+      }
     ]
   }
 }
