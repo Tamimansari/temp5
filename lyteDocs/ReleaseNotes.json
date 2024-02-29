@@ -236,6 +236,15 @@
         ],
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:14:09"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "new.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:14:33"
       }
     ]
   }
