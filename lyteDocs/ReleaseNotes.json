@@ -204,6 +204,17 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "18:59:42"
       }
+    ],
+    "tets": [
+      {
+        "msg": "check for test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n999.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:05:03"
+      }
     ]
   }
 }
