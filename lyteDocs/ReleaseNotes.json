@@ -189,6 +189,13 @@
         "fileName": "sl.js",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "18:44:52"
+      },
+      {
+        "msg": "dummy again again again",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "sl.js",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "18:49:32"
       }
     ]
   }
