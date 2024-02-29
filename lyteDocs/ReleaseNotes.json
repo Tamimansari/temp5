@@ -228,6 +228,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:25:23"
+      },
+      {
+        "msg": "commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n9.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:26:03"
       }
     ],
     "tete": [
@@ -259,6 +266,24 @@
         ],
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:14:33"
+      },
+      {
+        "msg": "`dbjwbhhb",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n9.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:45:27"
+      },
+      {
+        "msg": "`endk",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n10.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:50:34"
       }
     ]
   }
