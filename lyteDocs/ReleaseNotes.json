@@ -93,6 +93,13 @@
         "fileName": "n12.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "11:46:00"
+      },
+      {
+        "msg": "checj",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n12.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "13:10:25"
       }
     ],
     "n9.txt": [
