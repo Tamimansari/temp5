@@ -163,6 +163,15 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "18:38:07"
       }
+    ],
+    "temp": [
+      {
+        "msg": "code check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "new1.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "18:41:23"
+      }
     ]
   }
 }
