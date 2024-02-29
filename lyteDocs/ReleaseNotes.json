@@ -215,6 +215,17 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:05:03"
       }
+    ],
+    "tete": [
+      {
+        "msg": "purpose only",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": [
+          "new1.txt"
+        ],
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:12:33"
+      }
     ]
   }
 }
