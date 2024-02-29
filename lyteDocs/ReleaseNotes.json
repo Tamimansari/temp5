@@ -50,6 +50,13 @@
         "fileName": "n55.txt",
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "12:22:03"
+      },
+      {
+        "msg": "commit check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n55.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "18:37:42"
       }
     ],
     "n10.txt": [
@@ -148,6 +155,13 @@
         "fileName": "n4.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "18:29:14"
+      },
+      {
+        "msg": "temp commit",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": "n6.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "18:38:07"
       }
     ]
   }
