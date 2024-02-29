@@ -94,15 +94,6 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "11:46:00"
       }
-    ],
-    "n9.txt": [
-      {
-        "msg": "chech",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "n9.txt",
-        "date_of_commit": "29 - 2 - 2024",
-        "time_of_commit": "12:59:40"
-      }
     ]
   }
 }
