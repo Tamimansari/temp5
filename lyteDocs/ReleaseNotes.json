@@ -117,6 +117,15 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "13:01:37"
       }
+    ],
+    "n6.txt": [
+      {
+        "msg": "hbgfd",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n6.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "15:17:40"
+      }
     ]
   }
 }
