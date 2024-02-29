@@ -78,6 +78,15 @@
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "10:53:17"
       }
+    ],
+    "n12.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n12.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "11:46:00"
+      }
     ]
   }
 }
