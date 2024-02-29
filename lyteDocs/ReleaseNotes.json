@@ -69,6 +69,15 @@
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "20:23:08"
       }
+    ],
+    "n999.txt": [
+      {
+        "msg": "checking for untracked msfg",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n999.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "10:53:17"
+      }
     ]
   }
 }
