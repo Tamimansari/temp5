@@ -59,6 +59,13 @@
         "fileName": "n10.txt",
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "13:34:33"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n10.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "12:45:30"
       }
     ],
     "n9999.txt": [
