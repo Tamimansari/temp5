@@ -221,6 +221,13 @@
         "fileName": "new.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "19:16:01"
+      },
+      {
+        "msg": "commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n2.txt",
+        "date_of_commit": "29 - 2 - 2024",
+        "time_of_commit": "19:25:23"
       }
     ],
     "tete": [
