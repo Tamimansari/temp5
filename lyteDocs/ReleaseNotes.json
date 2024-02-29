@@ -69,15 +69,6 @@
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "20:23:08"
       }
-    ],
-    "package.json": [
-      {
-        "msg": "vchanged",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "package.json",
-        "date_of_commit": "29 - 2 - 2024",
-        "time_of_commit": "10:38:24"
-      }
     ]
   }
 }
