@@ -373,6 +373,15 @@
         "date_of_commit": "1 - 3 - 2024",
         "time_of_commit": "12:15:42"
       }
+    ],
+    "t1/n13.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n13.txt",
+        "date_of_commit": "1 - 3 - 2024",
+        "time_of_commit": "12:18:02"
+      }
     ]
   }
 }
