@@ -114,6 +114,13 @@
         "fileName": "n12.txt",
         "date_of_commit": "29 - 2 - 2024",
         "time_of_commit": "11:46:00"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n12.txt",
+        "date_of_commit": "1 - 3 - 2024",
+        "time_of_commit": "12:40:01"
       }
     ],
     "n9.txt": [
