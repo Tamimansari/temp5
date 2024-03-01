@@ -337,6 +337,15 @@
         "date_of_commit": "1 - 3 - 2024",
         "time_of_commit": "11:59:46"
       }
+    ],
+    "t1/n8.txt": [
+      {
+        "msg": "catch the errors",
+        "type_of_commit": "[TEST]",
+        "fileName": "n8.txt",
+        "date_of_commit": "1 - 3 - 2024",
+        "time_of_commit": "12:01:07"
+      }
     ]
   }
 }
