@@ -433,6 +433,15 @@
         "fileName": "n3.txt",
         "date_of_commit": "1 - 3 - 2024",
         "time_of_commit": "12:42:02"
+      },
+      {
+        "msg": "testing",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n12.txt"
+        ],
+        "date_of_commit": "1 - 3 - 2024",
+        "time_of_commit": "12:43:06"
       }
     ]
   }
