@@ -14,6 +14,15 @@
         "fileName": "n1.txt",
         "date_of_commit": "1 - 3 - 2024",
         "time_of_commit": "17:20:57"
+      },
+      {
+        "msg": "commit msg",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n6.txt"
+        ],
+        "date_of_commit": "1 - 3 - 2024",
+        "time_of_commit": "17:21:15"
       }
     ]
   }
