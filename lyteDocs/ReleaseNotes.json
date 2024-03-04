@@ -219,6 +219,15 @@
         "date_of_commit": "4 - 3 - 2024",
         "time_of_commit": "15:57:42"
       }
+    ],
+    "n4.txt": [
+      {
+        "msg": "commit \"msg\" normal",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n4.txt",
+        "date_of_commit": "4 - 3 - 2024",
+        "time_of_commit": "17:04:27"
+      }
     ]
   }
 }
