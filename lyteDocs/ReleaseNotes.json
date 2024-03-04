@@ -137,6 +137,16 @@
         ],
         "date_of_commit": "4 - 3 - 2024",
         "time_of_commit": "15:57:19"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n5.txt",
+          "n5/n56.txt"
+        ],
+        "date_of_commit": "4 - 3 - 2024",
+        "time_of_commit": "17:07:36"
       }
     ],
     "n2.txt": [
