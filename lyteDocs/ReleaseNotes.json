@@ -147,6 +147,16 @@
         ],
         "date_of_commit": "4 - 3 - 2024",
         "time_of_commit": "17:07:36"
+      },
+      {
+        "msg": "commit msg for group commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n14.txt",
+          "n5.txt"
+        ],
+        "date_of_commit": "4 - 3 - 2024",
+        "time_of_commit": "18:45:09"
       }
     ],
     "n2.txt": [
