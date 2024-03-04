@@ -93,6 +93,28 @@
         ],
         "date_of_commit": "4 - 3 - 2024",
         "time_of_commit": "12:53:00"
+      },
+      {
+        "msg": "deleted files",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n5/n1.txt",
+          "n5/n100.txt",
+          "n5/n4.txt",
+          "n5/n556.txt",
+          "n5/n6.txt",
+          "n5/n7.txt",
+          "n5/n8.txt",
+          "n5/n9.txt",
+          "n5/n90.txt",
+          "n5/n95.txt",
+          "n5/n999.txt",
+          "n5/n9999.txt",
+          "n5/new.txt",
+          "n5/npm.txt"
+        ],
+        "date_of_commit": "4 - 3 - 2024",
+        "time_of_commit": "15:27:15"
       }
     ],
     "n2.txt": [
