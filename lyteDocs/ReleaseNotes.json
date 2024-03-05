@@ -295,6 +295,15 @@
         "date_of_commit": "5 - 3 - 2024",
         "time_of_commit": "11:48:38"
       }
+    ],
+    "Test-Component": [
+      {
+        "msg": "checking oneline commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n6.txt",
+        "date_of_commit": "5 - 3 - 2024",
+        "time_of_commit": "11:49:17"
+      }
     ]
   }
 }
