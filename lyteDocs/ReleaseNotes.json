@@ -49,13 +49,6 @@
         ],
         "date_of_commit": "5 - 3 - 2024",
         "time_of_commit": "11:37:35"
-      },
-      {
-        "msg": "checking oneline commit",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "n6.txt",
-        "date_of_commit": "5 - 3 - 2024",
-        "time_of_commit": "11:49:39"
       }
     ],
     "multiplefiles": [
