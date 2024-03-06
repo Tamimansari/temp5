@@ -224,6 +224,15 @@
         ],
         "date_of_commit": "6 - 3 - 2024",
         "time_of_commit": "11:00:23"
+      },
+      {
+        "msg": "commit exit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n10.txt"
+        ],
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:26:03"
       }
     ],
     "n2.txt": [
