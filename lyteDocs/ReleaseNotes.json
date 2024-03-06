@@ -261,6 +261,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "6 - 3 - 2024",
         "time_of_commit": "12:12:17"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n2.txt",
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:13:30"
       }
     ],
     "New-release": [
@@ -342,6 +349,13 @@
         "fileName": "n4.txt",
         "date_of_commit": "4 - 3 - 2024",
         "time_of_commit": "17:04:27"
+      },
+      {
+        "msg": "commit",
+        "type_of_commit": "[TEST]",
+        "fileName": "n4.txt",
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:13:58"
       }
     ],
     "n6.txt": [
