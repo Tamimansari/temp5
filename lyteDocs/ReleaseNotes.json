@@ -233,6 +233,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "1 - 3 - 2024",
         "time_of_commit": "17:31:49"
+      },
+      {
+        "msg": "commit check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n2.txt",
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:11:29"
       }
     ],
     "New-release": [
