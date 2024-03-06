@@ -378,6 +378,13 @@
         "fileName": "n5.txt",
         "date_of_commit": "6 - 3 - 2024",
         "time_of_commit": "12:11:57"
+      },
+      {
+        "msg": "testing",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n5.txt",
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:12:47"
       }
     ]
   }
