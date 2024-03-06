@@ -254,6 +254,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "6 - 3 - 2024",
         "time_of_commit": "12:11:51"
+      },
+      {
+        "msg": "commit check",
+        "type_of_commit": "[TEST]",
+        "fileName": "n2.txt",
+        "date_of_commit": "6 - 3 - 2024",
+        "time_of_commit": "12:12:17"
       }
     ],
     "New-release": [
