@@ -427,6 +427,15 @@
         ],
         "date_of_commit": "27 - 3 - 2024",
         "time_of_commit": "15:25:00"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n12.txt"
+        ],
+        "date_of_commit": "27 - 3 - 2024",
+        "time_of_commit": "15:27:07"
       }
     ]
   }
