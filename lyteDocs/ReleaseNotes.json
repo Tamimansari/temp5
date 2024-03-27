@@ -1,5 +1,29 @@
 {
-  "unpublishedVersion": {
+  "3.3.3": {
+    "multiplefiles": [
+      {
+        "msg": "on",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n11.txt",
+          "n5/n2.txt"
+        ],
+        "date_of_commit": "27 - 3 - 2024",
+        "time_of_commit": "13:29:08"
+      },
+      {
+        "msg": "on",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n10.txt",
+          "n5/n4.txt"
+        ],
+        "date_of_commit": "27 - 3 - 2024",
+        "time_of_commit": "13:29:49"
+      }
+    ]
+  },
+  "1.0.6": {
     "Test-component": [
       {
         "msg": "commit msg",
@@ -381,30 +405,6 @@
         "fileName": "n5.txt",
         "date_of_commit": "27 - 3 - 2024",
         "time_of_commit": "12:35:46"
-      }
-    ]
-  },
-  "3.3.3": {
-    "multiplefiles": [
-      {
-        "msg": "on",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n5/n11.txt",
-          "n5/n2.txt"
-        ],
-        "date_of_commit": "27 - 3 - 2024",
-        "time_of_commit": "13:29:08"
-      },
-      {
-        "msg": "on",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n5/n10.txt",
-          "n5/n4.txt"
-        ],
-        "date_of_commit": "27 - 3 - 2024",
-        "time_of_commit": "13:29:49"
       }
     ]
   }
