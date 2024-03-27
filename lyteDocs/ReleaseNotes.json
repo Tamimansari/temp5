@@ -399,7 +399,7 @@
       }
     ]
   },
-  "unpublishedVersion": {
+  "1.0.7": {
     "package.json": [
       {
         "msg": "on",
