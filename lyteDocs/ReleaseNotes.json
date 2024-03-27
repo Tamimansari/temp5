@@ -418,5 +418,16 @@
         "time_of_commit": "14:48:03"
       }
     ]
+  },
+  "unpublishedVersion": {
+    "package.json": [
+      {
+        "msg": "on",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "package.json",
+        "date_of_commit": "27 - 3 - 2024",
+        "time_of_commit": "14:48:22"
+      }
+    ]
   }
 }
