@@ -101,6 +101,16 @@
         ],
         "date_of_commit": "28 - 2 - 2024",
         "time_of_commit": "19:42:09"
+      },
+      {
+        "msg": "check for msg",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n12.txt",
+          "n5/n6.txt"
+        ],
+        "date_of_commit": "2 - 4 - 2024",
+        "time_of_commit": "14:55:10"
       }
     ],
     "n10.txt": [
