@@ -129,6 +129,15 @@
         ],
         "date_of_commit": "2 - 4 - 2024",
         "time_of_commit": "15:36:52"
+      },
+      {
+        "msg": "deleted the git ignore",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          ".gitignore"
+        ],
+        "date_of_commit": "2 - 4 - 2024",
+        "time_of_commit": "15:54:33"
       }
     ],
     "n10.txt": [
