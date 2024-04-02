@@ -436,6 +436,15 @@
         ],
         "date_of_commit": "27 - 3 - 2024",
         "time_of_commit": "15:27:07"
+      },
+      {
+        "msg": "check for stash",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5/n4.txt"
+        ],
+        "date_of_commit": "2 - 4 - 2024",
+        "time_of_commit": "14:45:15"
       }
     ]
   }
